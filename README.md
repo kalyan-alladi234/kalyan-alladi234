@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://camo.githubusercontent.com/be00dc8a7f2b4bf7c0285be882c600b0e0cc812553c66409ae81afcff1bcfd8b/68747470733a2f2f692e696d6775722e636f6d2f4e5a705235486e2e676966" width="600"/>
-</p>
+
 
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00E8FF">Kalyan Alladi</span></h1>
