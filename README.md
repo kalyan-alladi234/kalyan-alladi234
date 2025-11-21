@@ -11,6 +11,16 @@
 </p>
 
 ---
+## 🔹 **Portfolio Website**  
+Personal portfolio built with React + modern UI  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dwipraj-creator/dwipraj-gihub/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="90%" />
+</p>
+
+**🔗 Live:** https://kalyan-alladi-portfolio.vercel.app/  
+**📦 GitHub:** https://github.com/kalyan-alladi234  
+
+---
 
 ## 🔗 Connect With Me
 <p>
@@ -59,7 +69,7 @@
 ## 🔹 **SwapSkills App**  
 A skill-exchange platform built with Firebase + Authentication + Real-time chat  
 <p align="center">
-  <img src="https://swap-skills.netlify.app/cover.png" width="90%" />
+  <img src="https://cdn.dribbble.com/userupload/14940721/file/original-2fa5f23014a4231a5d200ef9c1913419.png" width="90%" />
 </p>
 
 **🔗 Live:** https://swap-skills.netlify.app/  
@@ -81,7 +91,7 @@ A modern React-based pharmacy shopping UI
 ## 🔹 **Healthy Habits Tracker App**  
 A complete wellness + habit tracking app with Firebase sync  
 <p align="center">
-  <img src="https://healthy-habit-tracker-app.netlify.app/cover.png" width="90%" />
+  <img src="https://i.pinimg.com/736x/22/64/c2/2264c24f2c2498943bfb73fb5e8c3619.jpg" width="90%" />
 </p>
 
 **🔗 Live:** https://healthy-habit-tracker-app.netlify.app/  
@@ -89,16 +99,7 @@ A complete wellness + habit tracking app with Firebase sync
 
 ---
 
-## 🔹 **Portfolio Website**  
-Personal portfolio built with React + modern UI  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dwipraj-creator/dwipraj-gihub/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="90%" />
-</p>
 
-**🔗 Live:** https://kalyan-alladi-portfolio.vercel.app/  
-**📦 GitHub:** https://github.com/kalyan-alladi234  
-
----
 
 # 📊 GitHub Stats
 
