@@ -1,26 +1,32 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1hIAleMUDRNtKMuz6EnEEuDcrdX9nQWxv" width="100%" />
+</p>
+
 <h1 align="center">👋 Hi, I'm <span style="color:#00E8FF">Kalyan Alladi</span></h1>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00E8FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Firebase;DSA+Enthusiast;Always+Learning+New+Things">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E8FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Firebase;DSA+Enthusiast;Always+Learning+New+Things">
 </p>
 
 ---
 
 ## 🔗 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/kalyan-alladi-/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<p>
+  <a href="https://www.linkedin.com/in/kalyan-alladi-/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 # 🚀 About Me
-- 🎓 Full Stack Web Developer  
-- ⚛️ React • Node.js • Firebase  
-- 📱 Building scalable web apps  
-- 🧠 DSA: Arrays, Strings, Recursion, Trees, Graphs  
-- 🚀 Passionate about solving real-world problems  
+- 🎓 Full Stack Web Developer  
+- ⚛️ React • Node.js • Firebase  
+- 🌐 Passionate about building scalable web apps  
+- 🧠 DSA: Arrays, Strings, Trees, Graphs  
+- ✨ Always learning & exploring new tech  
 
 ---
 
@@ -45,7 +51,76 @@
 
 ---
 
-# 📌 Featured Projects
+# 📌 Featured Projects  
+> ✔ Each project now includes a cover image + live link + repo link  
 
-### 🔹 **Healthy Habits Tracker App**
-A wellness-focused habit tracking system with streaks, analytics, and Firebase sync.
+---
+
+## 🔹 **SwapSkills App**  
+A skill-exchange platform built with Firebase + Authentication + Real-time chat  
+<p align="center">
+  <img src="https://swap-skills.netlify.app/cover.png" width="90%" />
+</p>
+
+**🔗 Live:** https://swap-skills.netlify.app/  
+**📦 Repo:** https://github.com/kalyan-alladi234/masai-course/tree/main/SwapSkillsApp  
+
+---
+
+## 🔹 **PharmaGo – Online Pharmacy UI**  
+A modern React-based pharmacy shopping UI  
+<p align="center">
+  <img src="https://pharmago-vert.vercel.app/cover.jpg" width="90%" />
+</p>
+
+**🔗 Live:** https://pharmago-vert.vercel.app/  
+**📦 Repo:** https://github.com/kalyan-alladi234/masai_course/tree/main/projects/PharmaGo_UI  
+
+---
+
+## 🔹 **Healthy Habits Tracker App**  
+A complete wellness + habit tracking app with Firebase sync  
+<p align="center">
+  <img src="https://healthy-habit-tracker-app.netlify.app/cover.png" width="90%" />
+</p>
+
+**🔗 Live:** https://healthy-habit-tracker-app.netlify.app/  
+**📦 Repo:** https://github.com/kalyan-alladi234/Healthy-Habits-Tracker-App/tree/main/HealthyHabits_Tracker_app  
+
+---
+
+## 🔹 **Portfolio Website**  
+Personal portfolio built with React + modern UI  
+<p align="center">
+  <img src="https://kalyan-alladi-portfolio.vercel.app/cover.png" width="90%" />
+</p>
+
+**🔗 Live:** https://kalyan-alladi-portfolio.vercel.app/  
+**📦 GitHub:** https://github.com/kalyan-alladi234  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalyan-alladi234&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan-alladi234&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
+# 👀 Profile Views  
+<p>
+  <img src="https://komarev.com/ghpvc/?username=kalyan-alladi234&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
+
+---
+
+<h3 align="center">✨ Thanks for visiting! Keep building amazing things! ✨</h3>
