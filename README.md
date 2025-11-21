@@ -20,23 +20,18 @@ Personal portfolio built with React + modern UI
 **🔗 Live:** https://kalyan-alladi-portfolio.vercel.app/  
 **📦 GitHub:** https://github.com/kalyan-alladi234  
 
----
-
-## 🔗 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/kalyan-alladi-/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
 # 🚀 About Me
-- 🎓 Full Stack Web Developer  
+- 🎓 Full Stack Web Developer
+- 🔧 Backend Explorer building with Node.js, Express & MongoDB
+- 🎯 Current Mission: Building my dream portfolio with ReactJS
 - ⚛️ React • Node.js • Firebase  
 - 🌐 Passionate about building scalable web apps  
 - 🧠 DSA: Arrays, Strings, Trees, Graphs  
-- ✨ Always learning & exploring new tech  
+- ✨ Always learning & exploring new tech
+
 
 ---
 
@@ -124,4 +119,22 @@ A complete wellness + habit tracking app with Firebase sync
 
 ---
 
+## 🔗 Connect With Me
+<p>
+  <a href="mailto:kalyanalladi234@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/kalyan-alladi-/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://kalyan-alladi-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00E8FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1hIAleMUDRNtKMuz6EnEEuDcrdX9nQWxv/view">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
+</p>
 <h3 align="center">✨ Thanks for visiting! Keep building amazing things! ✨</h3>
