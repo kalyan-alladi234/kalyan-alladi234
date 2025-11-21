@@ -1,30 +1,26 @@
-
-
-
 <h1 align="center">👋 Hi, I'm <span style="color:#00E8FF">Kalyan Alladi</span></h1>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00E8FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Firebase;DSA+Enthusiast;Always+Learning+New+Things">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E8FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Firebase;DSA+Enthusiast;Always+Learning+New+Things">
 </p>
 
 ---
 
 ## 🔗 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/kalyan-alladi-/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/kalyan-alladi-/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 # 🚀 About Me
-- 🎓 Full Stack Web Developer  
-- ⚛️ React • Node.js • Firebase  
-- 📱 Building scalable web apps  
-- 🧠 DSA: Arrays, Strings, Recursion, Trees, Graphs  
-- 🚀 Passionate about solving real-world problems  
+- 🎓 Full Stack Web Developer  
+- ⚛️ React • Node.js • Firebase  
+- 📱 Building scalable web apps  
+- 🧠 DSA: Arrays, Strings, Recursion, Trees, Graphs  
+- 🚀 Passionate about solving real-world problems  
 
 ---
 
@@ -52,53 +48,4 @@
 # 📌 Featured Projects
 
 ### 🔹 **Healthy Habits Tracker App**
-A wellness-focused habit tracking system with streaks, analytics, and Firebase sync.  
-👉 Repo: https://github.com/kalyan-alladi234/Healthy-Habits-Tracker-App
-
----
-
-### 🔹 **PharmaGo UI**
-A modern UI for pharmacy shopping with React.  
-👉 Repo: https://github.com/kalyan-alladi234/masai_course/tree/main/projects/PharmaGo_UI
-
----
-
-### 🔹 **QuickRepo Viewer**
-A GitHub repository viewer built using JavaScript.  
-👉 Repo: https://github.com/kalyan-alladi234/masai_course/tree/main/projects/QuickRepo-Viewer
-
----
-
-### 🔹 **Automated Hydroponic Agriculture System (IoT Project)**
-A fully automated smart farming system using ESP32 + Sensors + Mobile App.  
-- Regulates **pH, temperature, water levels**  
-- Sends real-time updates to the farmer’s smartphone  
-- Takes automatic actions + user commands  
-- Built using **C, IoT, ESP32, Embedded Systems**
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalyan-alladi234&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan-alladi234&layout=compact&theme=radical" height="180"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-</p>
-
----
-
-# 👀 Profile Views
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kalyan-alladi234&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
-
----
-
-<h3 align="center">✨ Thanks for visiting! Keep coding and building amazing things! ✨</h3>
+A wellness-focused habit tracking system with streaks, analytics, and Firebase sync.
