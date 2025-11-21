@@ -62,7 +62,7 @@ Personal portfolio built with React + modern UI
 ---
 
 # 📌 Featured Projects  
-> ✔ Each project now includes a cover image + live link + repo link  
+
 
 ---
 
