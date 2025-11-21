@@ -92,7 +92,7 @@ A complete wellness + habit tracking app with Firebase sync
 ## 🔹 **Portfolio Website**  
 Personal portfolio built with React + modern UI  
 <p align="center">
-  <img src="https://kalyan-alladi-portfolio.vercel.app/cover.png" width="90%" />
+  <img src="https://raw.githubusercontent.com/Dwipraj-creator/dwipraj-gihub/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="90%" />
 </p>
 
 **🔗 Live:** https://kalyan-alladi-portfolio.vercel.app/  
