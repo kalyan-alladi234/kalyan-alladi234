@@ -73,7 +73,7 @@ A skill-exchange platform built with Firebase + Authentication + Real-time chat
 ## 🔹 **PharmaGo – Online Pharmacy UI**  
 A modern React-based pharmacy shopping UI  
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwoICUEfQBnd328Q6OI6pfim-L6DUiLwyjcw&s" width="80%" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwoICUEfQBnd328Q6OI6pfim-L6DUiLwyjcw&s" width="80%" height="80" />
 </p>
 
 **🔗 Live:** https://pharmago-vert.vercel.app/  
