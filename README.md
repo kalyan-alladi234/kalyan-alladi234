@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1hIAleMUDRNtKMuz6EnEEuDcrdX9nQWxv" width="100%" />
-</p>
+
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00E8FF">Kalyan Alladi</span></h1>
 
