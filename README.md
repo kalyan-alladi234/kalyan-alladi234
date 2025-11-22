@@ -76,7 +76,6 @@ A modern React-based pharmacy shopping UI
  <img 
   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwoICUEfQBnd328Q6OI6pfim-L6DUiLwyjcw&s" 
   width="80%" 
-  height="150"
 />
 
 </p>
