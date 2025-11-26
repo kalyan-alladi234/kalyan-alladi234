@@ -102,6 +102,7 @@ A complete wellness + habit tracking app with Firebase sync
 
 <p align="center">
   <img src="https://github-stats-kalyan12345678s-projects.vercel.app/api?theme=tokyonight&show_icons=true&username=kalyan-alladi234" height="180"/>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kalyan-alladi234&theme=tokyonight" height ="180"
   
 </p>
 
