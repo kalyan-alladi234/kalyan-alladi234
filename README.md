@@ -66,7 +66,7 @@ A skill-exchange platform built with Firebase + Authentication + Real-time chat
 </p>
 
 **🔗 Live:** https://swap-skills.netlify.app/  
-**📦 Repo:** https://github.com/kalyan-alladi234/masai-course/tree/main/SwapSkillsApp  
+**📦 Repo:** https://github.com/kalyan-alladi234/SkillSwapApp  
 
 ---
 
@@ -81,7 +81,7 @@ A modern React-based pharmacy shopping UI
 </p>
 
 **🔗 Live:** https://pharmago-vert.vercel.app/  
-**📦 Repo:** https://github.com/kalyan-alladi234/masai_course/tree/main/projects/PharmaGo_UI  
+**📦 Repo:** https://github.com/kalyan-alladi234/PharmaGoApp  
 
 ---
 
@@ -92,7 +92,7 @@ A complete wellness + habit tracking app with Firebase sync
 </p>
 
 **🔗 Live:** https://healthy-habit-tracker-app.netlify.app/  
-**📦 Repo:** https://github.com/kalyan-alladi234/Healthy-Habits-Tracker-App/tree/main/HealthyHabits_Tracker_app  
+**📦 Repo:** https://github.com/kalyan-alladi234/Healthy-Habits-Tracker-App  
 
 ---
 
@@ -101,8 +101,8 @@ A complete wellness + habit tracking app with Firebase sync
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalyan-alladi234&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan-alladi234&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-stats-kalyan12345678s-projects.vercel.app/api?theme=tokyonight&show_icons=true&username=kalyan-alladi234" height="180"/>
+  
 </p>
 
 ---
